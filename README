@@ -1,0 +1,6 @@
+Compile using make
+
+Run using:  ./simulator config.cfg
+
+change values in config.cfg to adjust simulation
+
