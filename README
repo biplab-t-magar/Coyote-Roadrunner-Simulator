@@ -1,7 +1,8 @@
-#Coyote-Roadrunner-Simulator
+# Coyote-Roadrunner-Simulator
+
 A 2D simulator where coyotes and roadrunners are placed randomly on a board. The movement, reproduction, and death of Coyotes and Roadrunners are simulated.
 
-#How to Run
+# How to Run
 
 Compile using make
 
